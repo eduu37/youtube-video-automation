@@ -30,7 +30,7 @@ YouTube Video Automation is an innovative tool designed to simplify the process 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/youtube-video-automation.git
+   git clone https://github.com/GhouI/youtube-video-automation.git
    cd youtube-video-automation
    ```
 
